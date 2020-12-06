@@ -1,18 +1,3 @@
-; Contains data for the intertwined two spiral problem.
-;
-NumIPs: 2 
-NumOPs: 1 
-NumTrnPats: 192
-NumTstPats: 192
-NumIts: 10000
-NumHN: 1
-NumHN1: 5
-LrnRate: 0.6
-Mtm1: 1.2
-Mtm2: 0.4
-ObjErr: 0.005
-Ordering: 0
-
 0.971354	0.209317	1
 -0.971354	-0.209317	0
 0.906112	0.406602	1
@@ -398,6 +383,3 @@ Ordering: 0
 -0.084877	0.018285	0
 0.076923	0.000003	1
 -0.076923	-0.000003	0
-
-				
-
