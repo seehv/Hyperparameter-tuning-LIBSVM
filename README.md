@@ -16,7 +16,7 @@ The data-sets can be obtained in dataset file.
 #### \windows>svm-scale -l -1 -u 1 data3-AMTrain.txt > data3-AMTrain.scale
 #### \windows>svm-scale -l -1 -u 1 data3-AMTest.txt > data3-AMTest.scale
 #### \windows>svm-train -s 0 -t 2 -c 1 -g 1 data3-AMTrain.scale data3.model
-optimization finished, #iter = 325
+optimization finished, #iter = 325 \
 nu = 0.394987
 obj = -77.856661, rho = -0.912130
 nSV = 242, nBSV = 75
