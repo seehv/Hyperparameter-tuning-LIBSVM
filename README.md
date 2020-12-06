@@ -20,6 +20,6 @@ optimization finished, #iter = 325 \
 nu = 0.394987 \
 obj = -77.856661, rho = -0.912130 \
 nSV = 242, nBSV = 75 \
-Total nSV = 242 \
+Total nSV = 242
 #### \windows>svm-predict data3-AMTest.scale data3.model data3.output
 Accuracy = 40% (20/50) (classification)
